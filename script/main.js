@@ -2,7 +2,7 @@
 window.addEventListener('load', () => {
     Swal.fire({
         title: 'Чи готова ти приймати поздоровлення на свій день народження?',
-        imageUrl: '../img/cute.gif', 
+        imageUrl: './img/cute.gif', 
         imageWidth: 150, 
         imageHeight: 150, 
         showCancelButton: true,
